@@ -2,6 +2,8 @@
 
 Vortex is a sleek banking app crafted with React.js and Tailwind CSS, powered by Vite for rapid compilation. It's also a premium sports footwear brand, offering a stylish range of products, exceptional customer service, and exclusive deals.
 
+Live -> https://vortexstore.netlify.app
+
 ## Sections
 
 - **Navbar:** A navigation menu for easy user navigation.
